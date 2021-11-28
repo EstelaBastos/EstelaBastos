@@ -9,14 +9,14 @@ My name is Estela and I am a developer! I'm from Brazil and currently working wi
   
 
 ## 📊 Github stats
-<p align="center"">
+<div>
   <a href="https://github.com/EstelaBastos">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=EstelaBastos&include_all_commits=true&theme=dracula&show_icons=true&hide=contribs" alt="EstelaBastos's GitHub Stats" />
   </a>
   <a href="https://github.com/EstelaBastos">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstelaBastos&layout=compact&theme=dracula&show_icons=true" />
   </a>
-</p>
+</div>
 
 ## 🌎 Where to find me?
 <div>
