@@ -9,8 +9,18 @@ My name is Estela and I am a developer! I'm from Brazil and currently working wi
   
 
 ## 📊 Github stats
-[![EstelaBastos GitHub stats](https://github-readme-stats.vercel.app/api?username=EstelaBastos&include_all_commits=true&theme=dracula&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstelaBastos&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"">
+  <a href="https://github.com/EstelaBastos">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=EstelaBastos&include_all_commits=true&theme=dracula&show_icons=true&hide=contribs" alt="EstelaBastos's GitHub Stats" />
+  </a>
+  <a href="https://github.com/EstelaBastos">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstelaBastos&layout=compact&theme=dracula&show_icons=true" />
+  </a>
+</p>
 
 ## 🌎 Where to find me?
-- Linkedin: https://www.linkedin.com/in/estela-bastos
+<div>
+<a href="https://www.linkedin.com/in/estela-bastosi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/_eomb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
